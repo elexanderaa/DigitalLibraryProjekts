@@ -1,0 +1,11 @@
+
+Wuthering Heights;Emily Brontë;Romance;Read
+Pride and Prejudice;Jane Austen;Romance;Read
+Jane Eyre;Charlotte Brontë;Romance;Not read
+Adventures of Huckleberry Finn;Mark Twain;Historical fiction;Read
+War and Peace;Leo Tolstoy;Historical fiction;Not read
+Crime and Punishment;Fyodor Dostoevsky;Psychological;Not read
+Sense and Sensibility;Jane Austen;Romance;Not read
+
+Anna Karenina;Leo Tolstoy;Romance;Read
+To Kill a Mockingbird;Harper Lee;Historical fiction;To Read

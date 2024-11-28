@@ -1,0 +1,13 @@
+C:\Users\Лика\source\repos\DigitalLibrary\bin\Debug\DigitalLibrary.exe.config
+C:\Users\Лика\source\repos\DigitalLibrary\bin\Debug\DigitalLibrary.exe
+C:\Users\Лика\source\repos\DigitalLibrary\bin\Debug\DigitalLibrary.pdb
+C:\Users\Лика\source\repos\DigitalLibrary\obj\Debug\DigitalLibrary.csproj.AssemblyReference.cache
+C:\Users\Лика\source\repos\DigitalLibrary\obj\Debug\DigitalLibrary.Form1.resources
+C:\Users\Лика\source\repos\DigitalLibrary\obj\Debug\DigitalLibrary.Form2.resources
+C:\Users\Лика\source\repos\DigitalLibrary\obj\Debug\DigitalLibrary.Form3.resources
+C:\Users\Лика\source\repos\DigitalLibrary\obj\Debug\DigitalLibrary.Form4.resources
+C:\Users\Лика\source\repos\DigitalLibrary\obj\Debug\DigitalLibrary.Properties.Resources.resources
+C:\Users\Лика\source\repos\DigitalLibrary\obj\Debug\DigitalLibrary.csproj.GenerateResource.cache
+C:\Users\Лика\source\repos\DigitalLibrary\obj\Debug\DigitalLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Лика\source\repos\DigitalLibrary\obj\Debug\DigitalLibrary.exe
+C:\Users\Лика\source\repos\DigitalLibrary\obj\Debug\DigitalLibrary.pdb
